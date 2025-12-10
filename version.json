@@ -1,7 +1,8 @@
 {
-  "version": "0.2",
-  "download_url": "https://raw.githubusercontent.com/fusion-rush/fusion-rush.github.io/refs/heads/main/demoapk/Fusion-Rush-v0.2.apk",
-  "header": "NEW UPDATE",
-  "changelog": "- Added new levels\n- Fixed bugs",
-  "message": "hello hahaha"
+    "version": "0.3",
+    "pck_url": "https://fusion-rush.github.io/pck/fusion-rush-content-v0.3.pck",
+    "pck_size": 32505856,
+    "header": "Content Available",
+    "changelog": "- Initial release\n- 6 difficulty levels",
+    "message": "Download content to start playing!"
 }
