@@ -1,8 +1,8 @@
 {
-    "version": "0.3",
-    "pck_url": "https://fusion-rush.github.io/pck/fusion-rush-content-v0.3.pck",
-    "pck_size": 32505856,
-    "header": "Content Available",
-    "changelog": "- Initial release\n- 6 difficulty levels",
-    "message": "Download content to start playing!"
+    "version": "0.4",
+    "pck_url": "https://fusion-rush.github.io/demoweb/Fusion-Rush-Web.pck",
+    "pck_size": 51394452,
+    "header": "Reactor Update Available",
+    "changelog": "- Updated reactor mechanics\n- Security improvements\n- Performance optimizations",
+    "message": "Update to version 0.4 to initialize the latest reactor calibration!"
 }
